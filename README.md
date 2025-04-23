@@ -14,7 +14,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 #### 🔍 Current Professional Objectives:
 - Pivot back into software engineering and serve alongside a strong team of creatives in edtech, game development, or mobile app development.
 - Build edtech that will make learning programming languages and coding more accessible.
-- Pursue a technical certification in data science.
+- Complete an 11-week intensive data science bootcamp program.
 
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
