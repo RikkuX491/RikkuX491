@@ -5,6 +5,10 @@
 
 Welcome to my GitHub page! My name's Ricardo! 😁
 
+I am an experienced Software Engineer who specializes in full-stack development.
+
+I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist, let's connect! 🗣
+
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
