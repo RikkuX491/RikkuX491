@@ -9,6 +9,13 @@ I am an experienced Software Engineer who specializes in full-stack development.
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist, let's connect! 🗣
 
+<hr />
+
+#### 🔍 Current Professional Objectives:
+- Pivot back into software engineering and serve alongside a strong team of creatives in edtech, game development, or mobile app development.
+- Build edtech that will make learning programming languages and coding more accessible.
+- Pursue a technical certification in data science.
+
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
