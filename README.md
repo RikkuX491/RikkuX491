@@ -19,6 +19,12 @@ I'm always looking for new projects and opportunities to get involved with creat
 #### 🚀 Moonshot Career Goals:
 - Enter a Master's program to study Computer Science at a reputable institution.
 
+#### ✈️ Personal Interests and Hobbies:
+- Traveling.
+- Language learning.
+- Going on foodie adventures.
+- Playing video games.
+
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
