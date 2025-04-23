@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![LinkedIn](https://www.linkedin.com/in/ricardo-guerra-463635161/)
+[![Gmail](rikkug491@gmail.com)
+
+Welcome to my GitHub page! My name's Ricardo! 😁
+
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
