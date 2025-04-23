@@ -16,6 +16,9 @@ I'm always looking for new projects and opportunities to get involved with creat
 - Build edtech that will make learning programming languages and coding more accessible.
 - Complete an 11-week intensive data science bootcamp program.
 
+#### 🚀 Moonshot Career Goals:
+- Enter a Master's program to study Computer Science at a reputable institution.
+
 <!--
 **RikkuX491/RikkuX491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
